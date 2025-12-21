@@ -1,9 +1,6 @@
 ## Hi there 👋
 
 <!--
-**afiyaa12/afiyaa12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - Hi! I'm Afiya, a passionate developer exploring web development, coding, and open-source projects. I love learning new technologies and building projects.
 🔭 I’m currently working on ...
